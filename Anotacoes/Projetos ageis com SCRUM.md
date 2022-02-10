@@ -25,53 +25,41 @@ _R: Entende a demanda e extrai o maior valor possível_
 # Cerimônias do SCRUM
 
 -   Sprint:
-    
     -   Principal evento do SCRUM.
-        
     -   Duração de 30 dias corridas (ou menos), definido pelo próprio time.
-        
+
     -   Composição (cerimônias):
         
         -   Refinamento (no final da sprint anterior);
             
         -   Planejamento da sprint;
-            
             -   O que fazer? (PO)
-                
             -   Como fazer? (Time Dev)
                 
         -   Reuniões diárias (daily meeting ou standup meeting);
             
             -   O que fiz ontem?
-                
             -   O que farei hoje?
-                
             -   Há algum impedimento?
                 
         -   Revisão da sprint (review);
-            
             -   Time Dev apresenta para o PO todo o trabalho feito
                 
         -   Retrospectiva da sprint.
-            
-            -   Lições aprendidas
-                
+            -   Lições aprendidas  
             -   Transparência
                 
 -   Time Box das cerimônias:
     
-    -   Tempo máximo para fazer uma cerimônia ou sprint.
+    - Tempo máximo para fazer uma cerimônia ou sprint.
         
-    -   Para sprint de 30 dias:
-        
-        -   Planejamento: 8h
+        - Para sprint de 30 dias:
+            -   Planejamento: 8h
+            -   Reuniões diárias: 15 min
+            -   Revisão da sprint: 4h
+            -   Retrospectiva: 3h
             
-        -   Reuniões diárias: 15 min
-            
-        -   Revisão da sprint: 4h
-            
-        -   Retrospectiva: 3h
-            
+
 
 # Analisando escopo e definindo prioridades
 
